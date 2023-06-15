@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+D:\Microservices-WorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2882092740.index
+\Stock-UI-APP\src\main\java
